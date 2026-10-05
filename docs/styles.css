@@ -65,7 +65,7 @@ a { color: inherit; }
 
 .brand b { color: var(--green-2); }
 
-.brand img { border-radius: 9px; }
+.brand img { border-radius: 6px; }
 
 .nav-links {
   display: flex;
@@ -421,7 +421,7 @@ code {
   padding: 24px 26px;
 }
 
-.download-card img { border-radius: 15px; }
+.download-card img { border-radius: 11px; }
 
 .download-card h3 { margin: 0 0 4px; font-size: 1.15rem; }
 
