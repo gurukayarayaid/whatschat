@@ -1,0 +1,6 @@
+{
+  "name": "WhatsChat",
+  "description": "Aplikasi chat mirip WhatsApp dengan fitur kontak dan alamat email, enkripsi ujung-ke-ujung (E2EE), berbagi media cepat, sinkronisasi multi-perangkat, obrolan grup hingga 200 peserta dengan kontrol admin, serta cadangan cloud otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
